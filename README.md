@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Madhav Singhal</h1>
-<h3 align="center">A passionate Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=madhavcode8&label=Profile%20views&color=0e75b6&style=flat" alt="madhavcode8" /> </p>
-
-- 🌱 I’m currently learning **Java**
-
-- 👯 I’m looking to collaborate on **Java Projects**
 
 - 📫 How to reach me **madhavsinghal880@gmail.com**
 
