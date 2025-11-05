@@ -12,61 +12,52 @@ Crafting scalable backends with Java and Springboot.
 
 ## 🚀 About Me
 
-> "Code is like humor. When you have to explain it, it's bad." – Cory House
+“Make it work, make it right, make it fast.” – Kent Beck
 
 I'm a passionate backend developer who believes in crafting clean, efficient, and maintainable solutions. With expertise in modern web technologies and a love for open source, I strive to create impactful applications that make a difference.
 
--🔭 Currently working on: Scalable backend systems using Spring Boot & microservices architecture
--🌱 Learning: Advanced system design, distributed systems & cloud-native development
--👯 Looking to collaborate on: Open source backend frameworks & API-driven projects
--💬 Ask me about: Java, Spring Boot, REST APIs, Microservices, Database design, and performance tuning
--⚡ Fun fact: I automate my setup scripts and love experimenting with new backend architectures!
+- 🔭 Currently working on: Scalable backend systems using Spring Boot & microservices architecture
+- 🌱 Learning: Advanced system design, distributed systems & cloud-native development
+- 👯 Looking to collaborate on: Open source backend frameworks & API-driven projects
+- 💬 Ask me about: Java, Spring Boot, REST APIs, Microservices, Database design, and performance tuning
+- ⚡ Fun fact: I automate my setup scripts and love experimenting with new backend architectures!
 
 ## 🛠️ Technology Stack
 
 ### Languages
-
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,go,python,java" />
+    <img src="https://skillicons.dev/icons?i=java,python,go" />
   </a>
 </p>
 
-- ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-- ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Backend & Database
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,postgres,mongodb,redis" />
+    <img src="https://skillicons.dev/icons?i=nodejs,postgres,redis" />
   </a>
 </p>
 
 - ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-- ![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
-- ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 - ![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 - ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Cloud
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,github,gitlab" />
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,github,gitlab" />
   </a>
 </p>
 
 - ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-- ![GCP](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 - ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 - ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-- ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 - ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 - ![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
@@ -86,10 +77,16 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandepten&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavcode8&theme=tokyonight&hide_border=true" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=sandepten&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhavcode8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhavcode8&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Madhavcode8&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
 
 ## 🤝 Let's Connect
 
