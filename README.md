@@ -63,7 +63,6 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhavcode8&theme=tokyonight&hide_border=true" />
   
   <img src="https://github-readme-stats.vercel.app/api?username=Madhavcode8&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
   
