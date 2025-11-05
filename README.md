@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Tech+Explorer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0891B2&center=true&vCenter=true&random=false&width=435&lines=Backend+Developer;Tech+Explorer)](https://git.io/typing-svg)
 
 Crafting scalable backends with Java and Springboot.
 
