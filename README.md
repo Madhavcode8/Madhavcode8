@@ -81,9 +81,3 @@ I'm a passionate backend developer who believes in crafting clean, efficient, an
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madhavsinghal880@gmail.com)
 
 </div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandepten&color=0891b2&style=flat-square&label=Profile+Views" />
-</div>
